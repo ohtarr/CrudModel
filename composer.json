@@ -1,12 +1,12 @@
 {
-    "name": "ohtarr/service-now-model",
+    "name": "ohtarr/crud-model",
     "type": "library",
-    "description": "PHP7 Laravel5 component to connect to ServiceNow Table API",
+    "description": "PHP7 Laravel5 component to connect to crud API",
     "keywords": [
         "php7",
         "laravel5"
         ],
-    "homepage": "http://github.com/ohtarr/service-now-model",
+    "homepage": "http://github.com/ohtarr/crud-model",
     "authors": [
         {
             "name": "ohtarr",
