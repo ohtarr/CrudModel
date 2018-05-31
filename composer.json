@@ -1,0 +1,30 @@
+{
+    "name": "ohtarr/service-now-model",
+    "type": "library",
+    "description": "PHP7 Laravel5 component to connect to ServiceNow Table API",
+    "keywords": [
+        "php7",
+        "laravel5"
+        ],
+    "homepage": "http://github.com/ohtarr/service-now-model",
+    "authors": [
+        {
+            "name": "ohtarr",
+            "email": "composer@ohtarr.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.3",
+        "laravel/framework": "5.*",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "ohtarr\\": "src"
+        }
+    }
+}
